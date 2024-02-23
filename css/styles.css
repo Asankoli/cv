@@ -1,0 +1,35 @@
+/******************************TAG SELECTORS******************************/
+body{
+    background-color: #FFF3CF;
+}
+
+h1{
+    color: #637A9F;
+    /* color: #66BFBF; */
+    font-family: Lato, sans-serif;
+}
+
+h1:hover{
+    color: black;
+    font-family: Lato, sans-serif;
+}
+
+h3{
+    color: #637A9F;
+    /* color: #66BFBF; */
+    font-family: Lato, sans-serif;
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+}
+
+
+/******************************CLASS SELECTORS******************************/
+/* .CLASS{} will edit tag selector value*/
+
+/******************************ID SELECTORS******************************/
+/* #ID{}  where ID is unique and can be used once used for single element edit. will edit tag selector value*/
